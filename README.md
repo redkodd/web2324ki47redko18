@@ -2,9 +2,9 @@ Repository details
 It's the git repository for WEB design technology couse. Here will be 5 laboratory works in theirs own branches.
 
 Information about me:
-Name: Paranchuk Serhii
+Name: Redko Bogdan
 Group: KI-47
-Student number: 16
+Student number: 18
 Technologies I use in this task
 GitHub
 Task details
